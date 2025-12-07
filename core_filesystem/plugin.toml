@@ -1,0 +1,6 @@
+name = "core-filesystem"
+version = "0.1.0"
+type = "core"
+timing = "pre-init"
+priority = 95
+description = "Provides FileSystem Source Control support."

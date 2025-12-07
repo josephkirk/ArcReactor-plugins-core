@@ -1,0 +1,6 @@
+name = "core-zip"
+version = "0.1.0"
+type = "core"
+timing = "pre-init"
+priority = 95
+description = "Provides ZipFile Source Control support."

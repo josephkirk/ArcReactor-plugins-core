@@ -1,0 +1,6 @@
+name = "core-subprocess"
+version = "0.1.0"
+type = "core"
+timing = "pre-init"
+priority = 90
+description = "Provides subprocess execution capabilities."

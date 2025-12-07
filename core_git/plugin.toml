@@ -1,0 +1,6 @@
+name = "core-git"
+version = "0.1.0"
+type = "core"
+timing = "pre-init"
+priority = 95
+description = "Provides Git Source Control support."

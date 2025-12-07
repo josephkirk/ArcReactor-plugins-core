@@ -1,0 +1,6 @@
+name = "core-toml-provider"
+version = "0.1.0"
+type = "core"
+timing = "pre-init"
+priority = 100
+description = "Provides TOML-based project metadata storage."
